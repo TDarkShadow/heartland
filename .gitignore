@@ -21,3 +21,8 @@
 !*.compiler_settings
 !*.wabbajack.meta.json
 !modlist-metadata.json
+
+# Heartland images
+!img/*
+!imgBackground.png
+!imgTitle.png

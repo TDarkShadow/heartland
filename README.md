@@ -1,4 +1,4 @@
-![](.\imgTitle.png)
+![](https://github.com/TDarkShadow/heartland/blob/master/imgTitle.png)
 
 ### Documentation and Instructions for Installer Version 2.2.6, Wabbajack 2.5.2.2+
 

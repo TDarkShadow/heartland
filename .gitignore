@@ -1,0 +1,23 @@
+# Ignore everything
+*
+!*/
+
+# except for ...
+# Basic git and IDE settings
+!.gitignore
+!.vscode/*
+
+# Modlist essentials
+!./LICENSE
+!./README.MD
+!downloads/*.meta
+!metas/*.meta
+
+# Mod Organizer 2 essentials
+!mods/*/meta.ini
+!profiles/*/*
+
+# Wabbajack essentials
+!*.compiler_settings
+!*.wabbajack.meta.json
+!modlist-metadata.json

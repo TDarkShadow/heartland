@@ -98,7 +98,7 @@ Only applicable for use with a monitor that has greater than a 16:9 aspect ratio
 
 This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods. To view, simply right click the seperator select Information, then select the Notes tab. You will be presented with instructions like below:
 
-![](img\img/Optionals.png)
+![](https://github.com/TDarkShadow/heartland/blob/master/img/Optionals.png)
 
 #### _Weather and Interiors: All Natural and Immersive Interiors_
 
@@ -109,7 +109,7 @@ within its exterior environment.
 
 Please note that there are minor issues with foggy weather and nights being brighter than desired. This is an experimental configuration and is being actively improved.
 
-![](img\Weather.jpg)
+![](https://github.com/TDarkShadow/heartland/blob/master/img/Weather.jpg)
 
 #### _User Interface: DarNified UI_
 
@@ -119,7 +119,7 @@ DarNified UI is a more traditional take on a UI overhaul for Oblivion. All manne
 
 Also included in this configuration is a compatible loading screens replacer, but instructions are available to switch to vanilla loading screens for those that prefer them.
 
-![](img\DarnUI.png)
+![](https://github.com/TDarkShadow/heartland/blob/master/img/DarnUI.png)
 
 #### _Music: GOSH, Oblivion Symphonic Variations Suite, Silent Tracks Expanded_
 
@@ -163,7 +163,7 @@ Oblivion is only designed to run on the first two cores of a PC, but by default,
 4. ALT-Tab to Process Lasso and right-click the Oblivion.exe process. Choose **CPU Affinity -> Always -> Select CPU affinity**, and then **tick only CPU 0 and CPU 1**.
 5. Restart Oblivion!
 
-![](img\ProcessLasso.png)
+![](https://github.com/TDarkShadow/heartland/blob/master/img/ProcessLasso.png)
 
 ### Decompressing Vanilla Game BSAs
 Courtesy of Zilav:
@@ -177,7 +177,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 3. Select **Decompress**, then close the tool once it has finished. Your vanilla BSA files will now be decompressed.
 4. Cut **DLCShiveringIsles - Faces.bsa** back to Heartland/mods/Unofficial Shivering Isles Patch.
 
-![](img\BSADecompress.png)
+![](https://github.com/TDarkShadow/heartland/blob/master/img/BSADecompress.png)
 
 ## Extra Notes
 

@@ -19,6 +19,7 @@
 
 # Wabbajack essentials
 !*.compiler_settings
+!*.wabbajack.json
 !*.wabbajack.meta.json
 !modlist-metadata.json
 
